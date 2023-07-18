@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "doubleToBin.C": "cpp",
+        "float.h": "c"
+    }
+}
